@@ -2,7 +2,7 @@
 
 Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
-### Accede desde [aqui](https://github.com/AArreguiB/p1/blob/main/MEMORIA%20DE%20LA%20PRACTICA.md) a la memoria de la practica, en la que se incluyen los enlaces a los distintos PDFs explicativos
+### Accede desde [aquí](https://github.com/AArreguiB/p1/blob/main/MEMORIA%20DE%20LA%20PRACTICA.md) a la memoria de la practica, en la que se incluyen los enlaces a los distintos PDFs explicativos
 
 ## ¿Como probar en la nube?
 
